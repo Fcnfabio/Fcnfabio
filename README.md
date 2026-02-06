@@ -11,7 +11,7 @@
 ### 🧑‍💻 Sobre mí
 
 - 📍 Desde Bucaramanga, Santander – Colombia 🇨🇴  
-- 👨‍🏫 Estudiante y lìder.  
+- 👨‍🏫 Estudiante y lìder principiante.
 - 🧠 En constante aprendizaje: idiomas, tecnología y vida  
 - 🗣️ Idiomas: Español 🇪🇸 | Inglés 🇬🇧 (intermedio) | Francés 🇫🇷 (principiante)
 
