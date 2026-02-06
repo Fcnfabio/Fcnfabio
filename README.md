@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Fabio Daniel Capacho Nuñez 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Desarrollador+de+Software+💻;Me+gusta+estudiar+cosas+nuevas📘;Amante+del+C%C3%B3digo+y+el+ajedrez+⚽;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Desarrollador+de+Software+💻;Me+gusta+estudiar+cosas+nuevas📘;Amante+del+C%C3%B3digo+y+el+fùtbol+⚽;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">💡 <em>"Aprendiendo, experimentando y compartiendo código paso a paso. 🚀"</em></p>
