@@ -237,8 +237,6 @@ Versiono los proyectos con **SemVer** (`vMAYOR.MENOR.PARCHE`).
 
 <img src="https://streak-stats.demolab.com/?user=Fcnfabio&theme=tokyonight&hide_border=true" alt="Racha de contribuciones en GitHub" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fcnfabio&theme=tokyo-night&area=true&hide_border=true" alt="Gráfica de actividad reciente en GitHub" />
-
 </div>
 
 ---
