@@ -23,7 +23,7 @@ Soy desarrollador de software de **Bucaramanga, Colombia 🇨🇴**, en formaci�
 
 Me enfoco en escribir código **organizado, documentado y trabajado en equipo**: ramas por desarrollador, *pull requests* y *conventional commits*.
 
-- 🎓 **Formación:** Técnico en Desarrollo de Software, Campuslands (2025 – actualidad) · Programa de Trading Algorítmico, Universidad del Rosario (2026)
+- 🎓 **Formación:** Técnico en Desarrollo de Software, Campuslands (2025 – 2026) · Programa de Trading Algorítmico, Universidad del Rosario (2026)
 - 🗣️ **Idiomas:** Español (nativo) · Inglés (B1) · Francés (A1–A2)
 - ⚽ **Fuera del teclado:** fútbol, ajedrez y analizar gráficos
 
