@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="58" viewBox="0 0 900 58" role="img" aria-label="Stack técnico">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4f8ef7"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<style>
+  .bar{transform-origin:12px 29px;animation:grow .8s ease-out both} @keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+  .tx{animation:slide .9s .15s ease-out both} @keyframes slide{from{opacity:0;transform:translateX(-24px)}to{opacity:1;transform:translateX(0)}}
+  .ln{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 1.6s .3s ease-out forwards} @keyframes draw{to{stroke-dashoffset:0}}
+  .dot{animation:dot 2.4s ease-in-out infinite} @keyframes dot{0%,100%{opacity:.25;transform:scale(.7)}50%{opacity:1;transform:scale(1)}}
+</style>
+<rect x="0.5" y="0.5" width="899" height="57" rx="10" fill="#0e1426" stroke="#1e2a4a"/>
+<rect class="bar" x="10" y="12" width="5" height="34" rx="2.5" fill="url(#g)"/>
+<text class="tx" x="30" y="37" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="25" font-weight="700" letter-spacing=".5" fill="#e2e8f8">Stack técnico</text>
+<line class="ln" x1="30" y1="51" x2="870" y2="51" stroke="url(#g)" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+<g><circle class="dot" cx="840" cy="29" r="4" fill="#4f8ef7" style="transform-origin:840px 29px"/><circle class="dot" cx="856" cy="29" r="4" fill="#a78bfa" style="animation-delay:.4s;transform-origin:856px 29px"/><circle class="dot" cx="872" cy="29" r="4" fill="#22d3a5" style="animation-delay:.8s;transform-origin:872px 29px"/></g>
+</svg>

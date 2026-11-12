@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Fabio Daniel Capacho Nuñez, desarrollador FullStack">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080b14"/><stop offset="1" stop-color="#151c38"/></linearGradient>
+  <linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4f8ef7"><animate attributeName="stop-color" values="#4f8ef7;#a78bfa;#4f8ef7" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#22d3a5;#a78bfa" dur="6s" repeatCount="indefinite"/></stop></linearGradient>
+  <clipPath id="ty"><rect x="40" y="198" width="0" height="26"><animate attributeName="width" values="0;470;470;0" keyTimes="0;0.45;0.9;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<style>
+  .rise{opacity:0;animation:rise 1s ease-out forwards}
+  @keyframes rise{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:translateY(0)}}
+  .w1{animation:wave 9s linear infinite} .w2{animation:wave 14s linear infinite reverse}
+  @keyframes wave{from{transform:translateX(0)}to{transform:translateX(-500px)}}
+  .p{opacity:0;animation:float 8s ease-in infinite}
+  @keyframes float{0%{transform:translateY(0);opacity:0}15%{opacity:.7}100%{transform:translateY(-250px);opacity:0}}
+  .ring{transform-origin:900px 80px;animation:spin 18s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .blink{animation:blink 1s steps(2,start) infinite} @keyframes blink{to{visibility:hidden}}
+</style>
+<rect width="1000" height="300" fill="url(#bg)"/>
+<g opacity=".55"><circle class="ring" cx="900" cy="80" r="46" fill="none" stroke="#4f8ef7" stroke-width="1.5" stroke-dasharray="6 10"/><circle class="ring" cx="900" cy="80" r="70" fill="none" stroke="#a78bfa" stroke-width="1" stroke-dasharray="2 12" style="animation-direction:reverse"/></g>
+<circle class="p" cx="70" cy="285" r="2.5" fill="#4f8ef7" style="animation-duration:7s;animation-delay:0s"/>
+<circle class="p" cx="170" cy="285" r="2" fill="#a78bfa" style="animation-duration:9s;animation-delay:2s"/>
+<circle class="p" cx="260" cy="285" r="3" fill="#22d3a5" style="animation-duration:8s;animation-delay:4s"/>
+<circle class="p" cx="380" cy="285" r="2" fill="#4f8ef7" style="animation-duration:10s;animation-delay:1s"/>
+<circle class="p" cx="470" cy="285" r="2.5" fill="#a78bfa" style="animation-duration:7s;animation-delay:3s"/>
+<circle class="p" cx="590" cy="285" r="2" fill="#22d3a5" style="animation-duration:9s;animation-delay:5s"/>
+<circle class="p" cx="690" cy="285" r="3" fill="#4f8ef7" style="animation-duration:8s;animation-delay:2s"/>
+<circle class="p" cx="780" cy="285" r="2" fill="#a78bfa" style="animation-duration:10s;animation-delay:6s"/>
+<circle class="p" cx="860" cy="285" r="2.5" fill="#22d3a5" style="animation-duration:7s;animation-delay:1s"/>
+<circle class="p" cx="930" cy="285" r="2" fill="#4f8ef7" style="animation-duration:9s;animation-delay:4s"/>
+<circle class="p" cx="120" cy="285" r="2" fill="#a78bfa" style="animation-duration:11s;animation-delay:7s"/>
+<circle class="p" cx="540" cy="285" r="2.5" fill="#22d3a5" style="animation-duration:11s;animation-delay:8s"/>
+<g class="rise" style="animation-delay:.2s"><text x="40" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="800" letter-spacing="1.5" fill="url(#tx)">FABIO DANIEL CAPACHO NUÑEZ</text></g>
+<g class="rise" style="animation-delay:.8s"><text x="42" y="164" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#cbd5f5">Desarrollador FullStack   |   Bases de datos   |   Automatización</text></g>
+<g class="rise" style="animation-delay:1.4s"><rect x="42" y="176" width="90" height="3" rx="1.5" fill="#4f8ef7"/></g>
+<g clip-path="url(#ty)"><text x="42" y="218" font-family="'Courier New',Consolas,monospace" font-size="17" fill="#22d3a5">&gt; Bucaramanga, Colombia   |   Campuslands   |   Java · JS · SQL</text></g>
+<g transform="translate(0,222)"><g class="w2" opacity=".35"><path d="M0 0 Q125 -26 250 0 T500 0 Q625 -26 750 0 T1000 0 Q1125 -26 1250 0 T1500 0 Q1625 -26 1750 0 T2000 0 V80 H0 Z" fill="#a78bfa" transform="translate(0,22)"/></g><g class="w1" opacity=".55"><path d="M0 0 Q125 -26 250 0 T500 0 Q625 -26 750 0 T1000 0 Q1125 -26 1250 0 T1500 0 Q1625 -26 1750 0 T2000 0 V80 H0 Z" fill="#4f8ef7" transform="translate(0,34)"/></g></g>
+</svg>
