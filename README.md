@@ -4,8 +4,6 @@
 
 <br />
 
-<img src="https://avatars.githubusercontent.com/u/247636227?v=4" alt="Foto de perfil de Fabio Daniel Capacho Nuñez" width="140" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=900&color=4F8EF7&center=true&vCenter=true&width=620&lines=Desarrollador+de+software+en+formaci%C3%B3n;Backend+con+Java+y+Spring+Boot;Frontend+con+JavaScript+modular;Bases+de+datos+y+automatizaci%C3%B3n+con+n8n" alt="Texto animado con mis áreas de trabajo" />
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-Ver_online-4F8EF7?style=for-the-badge&logo=githubpages&logoColor=white)](https://fcnfabio.github.io/Portafolio-FabioCapacho/)
